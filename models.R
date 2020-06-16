@@ -1,0 +1,7 @@
+source("models_BLR.R")
+source("models_BLR_prop.R")
+source("models_joint.R")
+source("models_joint_nofeedback.R")
+source("models_spatial_gaussian.R")
+source("models_spatial_logistic.R")
+source("models_spatial_prop.R")
